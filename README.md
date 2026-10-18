@@ -1,4 +1,4 @@
-# ⬇️ The Only Markdown Cheatsheet You Need
+# The Only Markdown Cheatsheet You Need
 
 _Here you can find & download PDF version of the Complete Markdown Cheatsheet.  
 Feel free to download and use it. ✌🏼_
