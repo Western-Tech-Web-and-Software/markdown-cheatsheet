@@ -1,28 +1,10 @@
 # The Only Markdown Cheatsheet You Need
 
-_Here you can find & download PDF version of the Complete Markdown Cheatsheet.  
-Feel free to download and use it. ✌🏼_
-
-✍🏼 I've also written, in more detail, some articles about Markdown in general.  
-
-<a href="https://dev.to/imluka/the-only-markdown-cheatsheet-you-will-ever-need-ccg"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-<a href="https://medium.com/@im-luka/the-only-markdown-cheatsheet-you-will-ever-need-a2941d008497"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://imluka.hashnode.dev/the-only-markdown-cheatsheet-you-will-ever-need"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-
----
-
-#### ⚠️ Note
-GitHub specific Markdown doesn't support some of the features listed in PDF. Perhaps in the future, they might include it.  
-
-👇🏼 If you are interested in GitHub specific Markdown, follow docs below.
-
----
-
 ### What is Markdown?
 Markdown is a lightweight markup language that you can use to format plain text documents.  
 Write docs for your GitHub projects, edit your GitHub profile _README_ etc. You fill find it all here.  
 
-Let's dive into it. ⤵️
+Let's dive into it.
 
 #### Table of Contents
 
